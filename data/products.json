@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Business Foundations Specialization",
+    "description": "Solve Real Business Problems. Build a foundation of core business skills in marketing, finance, accounting and operations.",
+    "price": 25
+  },
+  {
+    "id": 2,
+    "title": "Data Science Specialization",
+    "description": "Launch Your Career in Data Science. A ten-course introduction to data science, developed and taught by leading professors.",
+    "price": 30
+  },
+  {
+    "id": 3,
+    "title": "Modern and Contemporary Art and Design Specialization",
+    "description": "Explore Art and Ideas of Our Time. Develop a deeper understanding of artists’ and designers’ processes, and gain confidence in looking at and talking about art.",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "title": "The Science of Well-Being",
+    "description": "In this course you will engage in a series of challenges designed to increase your own happiness and build more productive habits.  You will ultimately be prepared to successfully incorporate a specific wellness activity into your life.",
+    "price": 100
+  }
+]
